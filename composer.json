@@ -1,5 +1,5 @@
 {
-    "name": "yceruto/breadcrumbs-bundle",
+    "name": "combine/symfony-breadcrumbs-bundle",
     "type": "symfony-bundle",
     "description": "Friendly breadcrumbs for Symfony applications.",
     "keywords": [
